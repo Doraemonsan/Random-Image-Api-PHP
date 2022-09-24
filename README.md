@@ -15,6 +15,7 @@
 移动端图片文件夹命名规则：xxxx_mpic
 xxxx可依自己喜好随意更改，可以是时间，可以是分类名称 
 
+
 ## Then,have fun.  
 注：若需要使用Preview.html，记得替换background: url()中的链接！ 
 
