@@ -6,11 +6,19 @@
 - [x] 方便化添加图片链接
 - [x] 轻量化（雾
 - [ ] 更加准确的识别
+- [x] 本地化（服务器带宽够大就是任性
+- [x] 多文件夹自动抓取（老懒狗了，懒得重命名
 
 ### 添加图片的方法
-只需要将图片链接分别添加进image-list-desktop或者image-list-mobile  
-image-list-desktop及对应桌面端将显示的图片  
-image-list-mobile及对应移动端将显示的图片
+将整个图片文件夹扔进img目录下即可
+桌面端图片文件夹命名规则：xxxx_ppic
+移动端图片文件夹命名规则：xxxx_mpic
+xxx可依自己喜好随意更改，可以是时间，可以是分类名称，通配符自动识别
   
 ## Then,have fun.  
 注：若需要使用Preview.html，记得替换background: url()中的链接！ 
+
+### 其他说明
+#### 例:
+- 桌面端访问时PHP实际调用的文件为 img/1234_ppic/4321.png
+- 移动端访问时PHP实际调用的文件为 img/1234_mpic/4321.png
