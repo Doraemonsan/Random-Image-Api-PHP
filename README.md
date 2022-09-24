@@ -10,10 +10,10 @@
 - [x] 多文件夹自动抓取（老懒狗了，懒得重命名
 
 ### 添加图片的方法
-将整个图片文件夹扔进img目录下即可
-桌面端图片文件夹命名规则：xxxx_ppic
-移动端图片文件夹命名规则：xxxx_mpic  
-xxxx可依自己喜好随意更改，可以是时间，可以是分类名称
+将整个图片文件夹扔进img目录下即可 &nbsp;
+桌面端图片文件夹命名规则：xxxx_ppic &nbsp;
+移动端图片文件夹命名规则：xxxx_mpic &nbsp;
+xxxx可依自己喜好随意更改，可以是时间，可以是分类名称 &nbsp;
   
 ## Then,have fun.  
 注：若需要使用Preview.html，记得替换background: url()中的链接！ 
